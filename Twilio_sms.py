@@ -9,8 +9,8 @@ try:
     message = client.messages \
                     .create(
                          body="Hi Maaz.",
-                         from_='+12015080329',
-                         to='+923092581213'
+                         from_='+xxxxxxxxxxx',
+                         to='+92xxxxxxxxxx'
                      )
 
     print(message.sid)
